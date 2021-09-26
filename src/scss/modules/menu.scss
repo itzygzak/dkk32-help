@@ -12,7 +12,8 @@
   .navigation__link {
     color: rgb(233, 222, 222);
     display: inline-block;
-    margin-right: 20px; }
+    margin-right: 20px;
+    box-align: rights; }
   
   .navigation__link--homepage {
     background: yellow;
